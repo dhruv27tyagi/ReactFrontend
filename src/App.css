@@ -1,0 +1,19 @@
+.container-fluid{
+  background-color: rgb(156, 153, 153);
+}
+
+.btn-outline-success{
+  background-color: rgb(250, 254, 254);
+}
+
+.InProgressPan{
+  padding-top: 20px;
+}
+
+.Alerts-panel{
+  min-height: 270px;
+}
+
+.Inner-Box{
+  padding: 20px;
+}
